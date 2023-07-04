@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/Documents/projects/entitlement/source/jem/entitlement-services/src/main/java/com/adobe/entitlement/executor/v1/ETLALicenseComplianceChangedEventExecutorV2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/projects/entitlement/source/jem/entitlement-services/src/test/java/com/adobe/entitlement/executor/v1/ETLALicenseComplianceChangedEventExecutorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/projects/entitlement/source/jem/entitlement-services/src/test/java/com/adobe/entitlement/executor/v1/ETLALicenseComplianceChangedEventExecutorTestV2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/projects/entitlement/source/jem/entitlement-services/src/test/java/com/adobe/entitlement/executor/v1/ETLALicenseComplianceChangedEventExecutorV2Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/projects/entitlement/source/jem/entitlement-services/src/test/java/com/adobe/entitlement/internal/subscribedevents/clam/LicenseEntityChangedEventTaskTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../bolt-java-starter-template-main/src/main/java/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../bolt-java-starter-template-main/src/main/java/listeners/Listeners.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../bolt-java-starter-template-main/src/main/java/listeners/actions/SampleBlockActionListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../bolt-java-starter-template-main/src/main/java/listeners/events/EventListeners.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../bolt-java-starter-template-main/src/main/java/listeners/shortcuts/SampleGlobalShortcutListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../bolt-java-starter-template-main/src/main/java/listeners/shortcuts/ShortcutListeners.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RELEASE.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/JBotApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/listeners/ListenerProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/listeners/Listeners.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/listeners/actions/SampleBlockActionListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/listeners/commands/SampleCommandListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/listeners/events/EventListeners.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/listeners/messages/MessageListeners.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/listeners/shortcuts/SampleGlobalShortcutListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/listeners/shortcuts/ShortcutListeners.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/listeners/views/SampleViewListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/slack/SlackBot.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/slack/SlackSlashCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/example/jbot/slack/SlackWebhooks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jbot/src/main/java/me/ramswaroop/jbot/core/slack/Bot.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

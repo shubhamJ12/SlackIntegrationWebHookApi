@@ -1,0 +1,5 @@
+example/jbot/facebook/FbBotTest.class
+example/jbot/slack/SlackBotTest.class
+example/jbot/slack/SlackSlashCommandTest.class
+example/jbot/slack/SlackBotTest$TestBot.class
+example/jbot/facebook/FbBotTest$TestBot.class

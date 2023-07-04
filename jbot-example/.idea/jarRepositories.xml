@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="maven-license-service-release" />
+      <option name="name" value="maven-license-service-release" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-license-service-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/central-maven-remote" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="asr-releases" />
+      <option name="name" value="ASR Releases" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-asr-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="asr-snapshots" />
+      <option name="name" value="ASR Snapshots" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-asr-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-miso-release" />
+      <option name="name" value="Miso Release" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-miso-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bps-uop-sdk-release" />
+      <option name="name" value="maven-uop-sdk-release" />
+      <option name="url" value="https://artifactory.corp.adobe.com/artifactory/maven-bps-uop-sdk-release" />
+    </remote-repository>
+  </component>
+</project>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>me.shubham.jbot</groupId>
+        <artifactId>jbot-parent</artifactId>
+        <version>4.1.2-rc.3-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>jbot</artifactId>
+    <version>4.1.2-rc.3-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+    <name>JBot</name>
+    <description>Make Slack and Facebook bots in Java in minutes.</description>
+    <url>https://github.com/shubham/jbot</url>
+
+    <developers>
+        <developer>
+            <id>ram</id>
+            <name>Ram Patra</name>
+            <email>hi at shubham.me</email>
+            <organization>shubham.me</organization>
+            <organizationUrl>http://www.shubham.me</organizationUrl>
+        </developer>
+    </developers>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-websocket</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.yaml</groupId>
+            <artifactId>snakeyaml</artifactId>
+            <version>1.33</version>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>  
+        </dependency>
+
+        <dependency>
+            <groupId>org.junit.vintage</groupId>
+            <artifactId>junit-vintage-engine</artifactId>
+            <scope>test</scope>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.hamcrest</groupId>
+                    <artifactId>hamcrest-core</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+    </dependencies>
+
+</project>
